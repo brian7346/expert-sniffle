@@ -1,0 +1,34 @@
+{
+  "problems": [
+    {
+      "id": "src/01-react-basci/01-use-state/src/01-use-state.problem.tsx",
+      "title": "React Basci - Use State",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "src/01-react-basci/02-use-state/src/02-use-state.problem.tsx",
+      "title": "React Basci - Use State",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "src/01-react-basci/03-use-app-store/src/03-use-app-store.problem.tsx",
+      "title": "React Basci - Use App Store",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "src/02-react-advanced/01-react-redux/src/01-react-redux.problem.tsx",
+      "title": "React Advanced - React Redux",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    },
+    {
+      "id": "src/02-react-advanced/02-use-selector/src/02-use-selector.problem.tsx",
+      "title": "React Advanced - Use Selector",
+      "descriptionVideoId": "",
+      "solutionVideoId": ""
+    }
+  ]
+}
